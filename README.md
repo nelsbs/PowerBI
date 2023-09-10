@@ -1,7 +1,7 @@
 # PowerBI
 Delving into the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) Data
 
-About this project
+## About this project
 A Beginner's Guide to Power BI with Maven Analytics Challenge!
 
 Welcome to a project that would help you if you are a Power BI Beginner. In this venture, I have intentionally taken the road less complex to ensure that even beginners in the realm of Data Analytics can join the journey.
